@@ -24,3 +24,7 @@
 - Enfocar más mi carrera hacia un ámbito donde pueda ayudar a otros y hacer proyectos que puedan sacarle una sonrisa a alguien.
 ## Una frase que me define
 - "*La sonrisa de biomédica*"
+```markdown
+## Algo divertido sobre mí
+- Soy un personaje de un libro para niños que escribió la mamá de un amigo de mi hermana, soy personaje secundario pero ahí estoy jajaja
+```
